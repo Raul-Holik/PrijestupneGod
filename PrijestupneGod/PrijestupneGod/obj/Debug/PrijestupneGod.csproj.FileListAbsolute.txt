@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\PrijestupneGod\PrijestupneGod\bin\Debug\PrijestupneGod.exe.config
+C:\Users\Osoba\Documents\Skola\PrijestupneGod\PrijestupneGod\bin\Debug\PrijestupneGod.exe
+C:\Users\Osoba\Documents\Skola\PrijestupneGod\PrijestupneGod\bin\Debug\PrijestupneGod.pdb
+C:\Users\Osoba\Documents\Skola\PrijestupneGod\PrijestupneGod\obj\Debug\PrijestupneGod.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\PrijestupneGod\PrijestupneGod\obj\Debug\PrijestupneGod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\PrijestupneGod\PrijestupneGod\obj\Debug\PrijestupneGod.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\PrijestupneGod\PrijestupneGod\obj\Debug\PrijestupneGod.exe
+C:\Users\Osoba\Documents\Skola\PrijestupneGod\PrijestupneGod\obj\Debug\PrijestupneGod.pdb
